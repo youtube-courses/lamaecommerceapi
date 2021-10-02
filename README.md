@@ -1,1 +1,4 @@
 # lamaecommerceapi
+```
+yarn dev
+```
